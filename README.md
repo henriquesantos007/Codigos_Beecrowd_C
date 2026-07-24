@@ -60,3 +60,7 @@ gcc <nome do arquivo alvo> -o <nome do executável (à seu critério)>
 ./<nome do executável>
 ```
 ___
+# Perfil do Beecrowd
+Segue abaixo meu Usuário do Beecrowd:
+
+**henriquesantos.sje**
