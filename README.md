@@ -14,35 +14,24 @@ Não penso em fazer nada complexo. Planejo dividir os códigos das soluções em
 
 ```
 BEECROWD C/
-├─── INICIANTE/
-     ├─── iniciante_<código do problema>_<nome do problema>.c
-     ├─── iniciante_<código do problema>_<nome do problema>.c
-      ...
-     ├─── iniciante_<código do problema>_<nome do problema>.c
 ├─── AD-HOC/
      ├─── adhoc_<código do problema>_<nome do problema>.c
-     ...
-├─── STRINGS/
-     ├─── strings_<código do problema>_<nome do problema>.c
-     ...
 ├─── ESTRUTURAS E BIBLIOTECAS/
      ├─── estlib_<código do problema>_<nome do problema>.c
-     ...
-├─── MATEMATICA/
-     ├─── matematica_<código do problema>_<nome do problema>.c
-     ...
-├─── PARADIGMAS/
-     ├─── paradigmas_<código do problema>_<nome do problema>.c
-     ...
-├─── GRAFOS/
-     ├─── grafos_<código do problema>_<nome do problema>.c
-     ...
 ├─── GEOMETRIA COMPUTACIONAL/
      ├─── geocomp_<código do problema>_<nome do problema>.c
-     ...
-└─── SQL/
+├─── GRAFOS/
+     ├─── grafos_<código do problema>_<nome do problema>.c
+├─── INICIANTE/
+     ├─── iniciante_<código do problema>_<nome do problema>.c
+├─── MATEMATICA/
+     ├─── matematica_<código do problema>_<nome do problema>.c
+├─── PARADIGMAS/
+     ├─── paradigmas_<código do problema>_<nome do problema>.c
+├─── SQL/
      ├─── sql_<código do problema>_<nome do problema>.c
-     ...
+└─── STRINGS/
+     ├─── strings_<código do problema>_<nome do problema>.c
 ```
 
 ___
