@@ -40,3 +40,23 @@ ___
 
 Planejo resolver no mínimo 1 problema de cada categoria por semana para incentivar a constância. Meu objetivo com o repositório é aumentar a prática de programação lógica e me desafiar à novos problemas todos os dias.
 ___
+# Como Executar os Códigos
+---
+- Inicialmente percorra até a pasta da categoria do problema que você quer resolver:
+```bash
+cd <pasta de categoria>
+```
+
+- Em seguida, no arquivo alvo, libere o código de teste comentado para que você possa inserir as entradas do problema
+
+- Posteriormente você deve compilar o arquivo para gerar o executável do prorama:
+```bash
+gcc <nome do arquivo alvo> -o <nome do executável (à seu critério)>
+```
+
+- Com o executável gerado, basta rodar o comando para interagir com o programa:
+
+```bash
+./<nome do executável>
+```
+___
